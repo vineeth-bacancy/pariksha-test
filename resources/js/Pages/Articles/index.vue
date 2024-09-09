@@ -130,6 +130,7 @@ onMounted(() => {
 
 .meta {
     font-size: 0.875em;
+    line-height: 1.2rem;
     color: #6c757d;
 }
 
