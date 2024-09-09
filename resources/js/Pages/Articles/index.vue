@@ -214,10 +214,11 @@ hr {
         padding-bottom: 5rem;
     }
     .meta {
-        margin-bottom: 2.5rem;
+        /* display: block; */
+        /* margin-bottom: 2.5rem; */
     }
     .title {
-        font-size: 1.585rem;
+        font-size: calc(1.325rem + 0.9vw);
     }
 }
 </style>
