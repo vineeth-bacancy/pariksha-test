@@ -130,7 +130,6 @@ onMounted(() => {
 
 .meta {
     font-size: 0.875em;
-    height: 1.5rem !important;
     color: #6c757d;
 }
 
@@ -213,10 +212,7 @@ hr {
     .main {
         padding-bottom: 5rem;
     }
-    .meta {
-        /* display: block; */
-        /* margin-bottom: 2.5rem; */
-    }
+
     .title {
         font-size: calc(1.325rem + 0.9vw);
     }
